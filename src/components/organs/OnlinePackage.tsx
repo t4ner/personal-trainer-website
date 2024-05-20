@@ -1,5 +1,4 @@
 import dumbell from "../../assets/gym/dumbell.svg";
-import cutlery from "../../assets/gym/cutlery.svg";
 import health from "../../assets/gym/health.svg";
 import video from "../../assets/gym/video.svg";
 import cardio from "../../assets/gym/cardio.svg";
