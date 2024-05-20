@@ -5,14 +5,14 @@ import { Text } from "../atoms/Text";
 const CorpAbout = () => {
   return (
     <>
-      <div className="flex bg-zinc-950 pt-32 md:pt-44 flex-col items-center relative before:absolute before:-bottom-6 before:left-30 before:w-36 before:h-1 before:rounded-lg before:bg-gradient-to-r before:from-amber-500 before:to-red-500 z-10">
+      <div className="flex bg-zinc-950 pt-32 md:pt-44 flex-col items-center text-center relative before:absolute before:-bottom-6 before:left-30 before:w-36 before:h-1 before:rounded-lg before:bg-gradient-to-r before:from-amber-500 before:to-red-500 z-10">
         <Text
           as="p"
           className="text-amber-500 md:text-sm text-xs tracking-widest uppercase"
         ></Text>
         <Text
           as="h1"
-          className="text-zinc-100 lg:text-5xl md:text-4xl text-3xl"
+          className="text-zinc-100 lg:text-5xl md:text-4xl text-2xl"
         >
           KURUMSAL ORGANİZASYONLAR
         </Text>
