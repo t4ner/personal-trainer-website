@@ -1,21 +1,9 @@
 // import { Link } from "react-router-dom";
 import { Text } from "../atoms/Text";
-import { EnvelopeSimple, MapPin, Phone } from "@phosphor-icons/react";
 import { FooterTexts } from "../particles/Data";
 // import { List } from "../atoms/List";
-import { useCallback } from "react";
 
 const Footer = () => {
-  const renderIcon = useCallback((element: number) => {
-    switch (element) {
-      case 0:
-        return <MapPin size={20} color="currentColor" />;
-      case 1:
-        return <EnvelopeSimple size={20} color="currentColor" />;
-      case 2:
-        return <Phone size={20} color="currentColor" />;
-    }
-  }, []);
 
   return (
     <footer className="w-full bg-zinc-950 flex flex-col justify-center ">
