@@ -44,7 +44,8 @@ const About = () => {
               <li>- PAC Pro Athletic Condıtıonıng Kondisyonerlik Belgesi</li>
               <li>- Yeditepe Üniversitesi Yaşam Koçluğu Belgesi</li>
               <li>- Portland LifeCoach Uluslararası Eğitim Belgesi</li>
-              <li>- Nlp Neure Linguistic Programming eğitim belgesi</li>
+              <li>- Nlp Neure Linguistic Programming Eğitim Belgesi</li>
+              <li>- Nasm Cpt, Mental Toughness Eğitim Belgesi</li>
             </ul>
             <p className="mt-2">
               Şimdi ise spora olan tutkum ve birikimimle kişisel antrenörlük
