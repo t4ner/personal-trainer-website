@@ -2,7 +2,7 @@ import { useCallback, useRef } from "react";
 import { Image } from "../atoms/Image";
 import HeroImg1 from "../../assets/hero/13.jpg";
 import HeroImg2 from "../../assets/hero/12.jpg";
-import HeroImg3 from "../../assets/hero/14.jpg";
+import HeroImg3 from "../../assets/hero/bb.jpeg";
 import { HeroTexts } from "../particles/Data";
 import Slider from "react-slick";
 import { Text } from "../atoms/Text";
