@@ -238,5 +238,5 @@ export const FooterTexts = {
       },
     ],
   },
-  copyright: "Copyright 2024. All Right Reserved | Designed By TTYazılım",
+  copyright: "Copyright 2024. All Right Reserved | Designed By TT Yazılım",
 };
