@@ -9,7 +9,9 @@ const Footer = () => {
     <footer className="w-full bg-zinc-950 flex flex-col justify-center ">
       <div className="text-center py-5 bg-gradient-to-r from-red-500 to-amber-500">
         <Text as="p" className="text-zinc-200 md:text-sm text-xs font-bold">
-          {FooterTexts.copyright}
+          <a href="https://ttyazilim.com.tr/">
+            {FooterTexts.copyright}
+          </a>
         </Text>
       </div>
     </footer>
